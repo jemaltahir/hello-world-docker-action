@@ -16,4 +16,8 @@ runs:
   args:
     - ${{ inputs.who-to-greet }}
 
+branding:
+  icon: 'award'
+  color: 'green'
+
 
